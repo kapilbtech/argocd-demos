@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: online-shop
-        image: kapilbtech86/online_shop:latest
+        image: kapilbtech86/online-shop:latest
         ports:
         - containerPort: 3000
         resources:
